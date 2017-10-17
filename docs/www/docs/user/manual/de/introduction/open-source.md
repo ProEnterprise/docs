@@ -2,7 +2,7 @@
 # Freie Software
 <span class="text-muted contributed-by">Beigetragen von CWT Connector & Wire Technology GmbH</span>
 
-Der Quellcode von ERPNext ist Open Source. Er ist für alle offen: Zum Verstehen, zum Erweitern und zum Verbessern. Und er ist kostenlos!
+Der Quellcode von Pro Enterprise ERP ist Open Source. Er ist für alle offen: Zum Verstehen, zum Erweitern und zum Verbessern. Und er ist kostenlos!
 
 Vorteile einer freien Software sind:
 
@@ -14,11 +14,11 @@ Vorteile einer freien Software sind:
 
 ---
 
-### Quellcode zu ERPNext
+### Quellcode zu Pro Enterprise ERP
 
-Der Speicherort des ERPNext-Quellcodes befindet sich auf GitHub. Sie finden ihn hier:
+Der Speicherort des Pro Enterprise ERP-Quellcodes befindet sich auf GitHub. Sie finden ihn hier:
 
-- [https://github.com/frappe/erpnext](https://github.com/frappe/erpnext)
+- [https://github.com/frappe/ProEnterprise](https://github.com/frappe/ProEnterprise)
 
 ### Alternativen
 

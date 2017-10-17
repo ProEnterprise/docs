@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 # Sending Email from any Document
 
-In ERPNext you can send any document as email (with a PDF attachment) by clicking on `Menu > Email` from any open document.
+In Pro Enterprise ERP you can send any document as email (with a PDF attachment) by clicking on `Menu > Email` from any open document.
 
 <img class="screenshot" alt="Send Email" src="/docs/assets/img/setup/email/send-email.gif">
 

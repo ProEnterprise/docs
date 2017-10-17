@@ -5,4 +5,4 @@
 
 **Duration: 3:26**
 
-This is a help video on how to add and manage Employees in ERPNext.
+This is a help video on how to add and manage Employees in Pro Enterprise ERP.

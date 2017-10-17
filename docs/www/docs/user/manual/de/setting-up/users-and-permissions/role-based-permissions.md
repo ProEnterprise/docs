@@ -2,7 +2,7 @@
 # Rollenbasierte Berechtigungen
 <span class="text-muted contributed-by">Beigetragen von CWT Connector & Wire Technology GmbH</span>
 
-ERPNext arbeitet mit einem rollenbasierten Berechtigungssystem. Das heißt, dass Sie Benutzern Rollen zuordnen können und Rollen Berechtigungen erteilen können. Die Struktur der Berechtigungen erlaubt es Ihnen weiterhin verschiedene Berechtigungsregeln für unterschiedliche Felder zu definieren, wobei das **Konzept der Berechtigungsebenen** für Felder verwendet wird. Wenn einem Kunden einmal Rollen zugeordnet worden sind, haben Sie darüber die Möglichkeit, den Zugriff eines Benutzers auf bestimmte Dokumente zu beschränken.
+Pro Enterprise ERP arbeitet mit einem rollenbasierten Berechtigungssystem. Das heißt, dass Sie Benutzern Rollen zuordnen können und Rollen Berechtigungen erteilen können. Die Struktur der Berechtigungen erlaubt es Ihnen weiterhin verschiedene Berechtigungsregeln für unterschiedliche Felder zu definieren, wobei das **Konzept der Berechtigungsebenen** für Felder verwendet wird. Wenn einem Kunden einmal Rollen zugeordnet worden sind, haben Sie darüber die Möglichkeit, den Zugriff eines Benutzers auf bestimmte Dokumente zu beschränken.
 
 Wenn Sie das tun wollen, gehen Sie zu:
 
@@ -64,7 +64,7 @@ Der Urlaubsantrag ist ein gutes **Beispiel**, welches alle Bereiche des Berechti
 
 5\. **Ein Urlaubsantrag sollte nur von einem Mitarbeiter der Personalverwaltung oder einem Urlaubsgenehmiger bestätigt oder abgelehnt werden können.** Das Statusfeld des Urlaubsantrags wird auf Ebene 1 gesetzt. Mitarbeiter der Personalverwaltung und Urlaubsgenehmiger bekommen Lese- und Schreibrechte für Ebene 1, während allen anderen Leserechte für Ebene 1 gegeben werden.
 
-<img class="screenshot" alt="Leserechte auf einen Satz von Feldern auf bestimmte Rollen beschränken." src="/docs/assets/old_images/erpnext/setting-up-permissions-level-1.png">
+<img class="screenshot" alt="Leserechte auf einen Satz von Feldern auf bestimmte Rollen beschränken." src="/docs/assets/old_images/ProEnterprise/setting-up-permissions-level-1.png">
 
 6\. **Der Mitarbeiter der Personalverwaltung sollte die Möglichkeit haben Urlaubsanträge an seine Untergebenen zu delegieren.** Er erhält die Erlaubis Benutzerberechtigungen einzustellen. Ein Nutzer mit der Rolle "Benutzer Personalverwaltung" wäre dann also in der Lage Benutzer-Berechtigungen und Urlaubsanträge für andere Benutzer zu definieren.
 

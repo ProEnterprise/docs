@@ -5,4 +5,4 @@
 
 **Duration: 6:35**
 
-In this video, you will learn how to add Assets and manage Asset Depreciation in ERPNext.
+In this video, you will learn how to add Assets and manage Asset Depreciation in Pro Enterprise ERP.

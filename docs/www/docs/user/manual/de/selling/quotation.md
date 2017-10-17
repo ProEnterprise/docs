@@ -36,7 +36,7 @@ Ein Angebot enthält Informationen über:
 Die Preise, die sie abgeben, hängen von zwei Dingen ab:
 
 * Die Preisliste: Wenn Sie mehrere verschiedene Preislisten haben, können Sie eine Preisliste auswählen oder sie mit dem Kunden markieren (so dass sie automatisch vorselektiert wird). Ihre Artikelpreise werden automatisch über die Preisliste aktualisert. Für weitere Informationen bitte bei [Preisliste](/docs/user/manual/de/setting-up/price-lists.html) weiterlesen.
-* Die Währung: Wenn Sie einem Kunden in einer anderen Währung anbieten, müssen Sie die Umrechnungsfaktoren aktualisieren um ERPNext in die Lage zu versetzen die Information in Ihrer Standardwährung zu speichern. Das hilft Ihnen dabei den Wert Ihres Angebots in der Standardwährung zu analysieren.
+* Die Währung: Wenn Sie einem Kunden in einer anderen Währung anbieten, müssen Sie die Umrechnungsfaktoren aktualisieren um Pro Enterprise ERP in die Lage zu versetzen die Information in Ihrer Standardwährung zu speichern. Das hilft Ihnen dabei den Wert Ihres Angebots in der Standardwährung zu analysieren.
 
 ### Steuern
 
@@ -71,6 +71,6 @@ Ein Angebot ist eine "übertragbare" Transaktion. Sobald Sie das Angebot an Ihre
 
 ### Rabatt
 
-Wenn Sie Ihre Vertriebstransaktionen wie z. B. ein Angebot (oder eine Kundenbestellung) erstellen, dann haben Sie wahrscheinlich schon gemerkt, dass es eine Spalte "Rabatt" gibt. Auf der linken Seite befindet sich der Preislisten-Preis auf der rechten Seite der Grundpreis. Sie können einen Rabatt hinzufügen um den Grundpreis zu aktualisieren. Um mehr über Rabatte zu erfahren lesen Sie bitte den Abschnitt [Rabatt](http://erpnext.org/discount).
+Wenn Sie Ihre Vertriebstransaktionen wie z. B. ein Angebot (oder eine Kundenbestellung) erstellen, dann haben Sie wahrscheinlich schon gemerkt, dass es eine Spalte "Rabatt" gibt. Auf der linken Seite befindet sich der Preislisten-Preis auf der rechten Seite der Grundpreis. Sie können einen Rabatt hinzufügen um den Grundpreis zu aktualisieren. Um mehr über Rabatte zu erfahren lesen Sie bitte den Abschnitt [Rabatt](http://ProEnterprise.org/discount).
 
 {next}

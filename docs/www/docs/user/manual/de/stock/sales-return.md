@@ -4,7 +4,7 @@
 
 Dass verkaufte Produkte zurück gesendet werden ist in der Wirtschaft üblich. Gründe für die Rücksendung durch den Kunden sind Qualitätsmängel, verspätete Lieferung oder auch anderes.
 
-In ERPNext können Sie eine Kundenreklamation erstellen, indem Sie ganz einfach einen Lieferschein/eine Ausgangsrechnung mit negativer Menge erstellen.
+In Pro Enterprise ERP können Sie eine Kundenreklamation erstellen, indem Sie ganz einfach einen Lieferschein/eine Ausgangsrechnung mit negativer Menge erstellen.
 
 Öffnen Sie dazu zuerst den Lieferschein/die Ausgangsrechnung zu dem/der der Kunde einen Artikel zurück sendet.
 

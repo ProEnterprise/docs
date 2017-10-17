@@ -1,7 +1,7 @@
 # Vertriebspartner
 <span class="text-muted contributed-by">Beigetragen von CWT Connector & Wire Technology GmbH</span>
 
-Menschen, die Sie dabei unterstützen Geschäfte abzuschliessen, werden als Vertriebspartner bezeichnet. Vertriebspartner können durch unterschiedliche Namen in ERPNext repräsentiert werden. Sie können Sie als Channelpartner, Distributor, Händler, Agent, Einzelhändler, Umsetzungspartner, Wiederverkäufer, usw. bezeichnen.
+Menschen, die Sie dabei unterstützen Geschäfte abzuschliessen, werden als Vertriebspartner bezeichnet. Vertriebspartner können durch unterschiedliche Namen in Pro Enterprise ERP repräsentiert werden. Sie können Sie als Channelpartner, Distributor, Händler, Agent, Einzelhändler, Umsetzungspartner, Wiederverkäufer, usw. bezeichnen.
 
 Für jeden Vertriebspartner, können Sie eine Provision definieren und anbieten. Wenn in Transaktionen ein Vertriebspartner ausgewählt wurde, dann wird die Provison über die Netto-Gesamtsumme des Kundenauftrags oder des Lieferscheins berechnet.
 
@@ -25,7 +25,7 @@ Um die Namen Ihrer Partner auf Ihrer Webseite anzuzeigen, aktivieren Sie "Auf de
 
 Um eine Übersicht Ihrer Partner zu erhalten, gehen Sie zu:
 
-https://example.erpnext.com/Partners
+https://example.enterprise.plus.co.zm/Partners
 
 <img class="screenshot" alt="Auflistung der Vertriebspartner" src="/docs/assets/img/crm/sales-partner-listing.png">
 

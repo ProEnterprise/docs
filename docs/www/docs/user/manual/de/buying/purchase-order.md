@@ -10,7 +10,7 @@ Ein Lieferantenauftrag kann automatisch aus einer Materialanfrage oder einem Lie
 
 <img class="screenshot" alt="Lieferantenauftrag" src="/docs/assets/img/buying/purchase-order-f.jpg">
 
-In ERPNext können Sie einen Lieferantenauftrag auch direkt erstellen über:
+In Pro Enterprise ERP können Sie einen Lieferantenauftrag auch direkt erstellen über:
 
 > Einkauf > Dokumente > Lieferantenauftrag > Neuer Lieferantenauftrag
 
@@ -33,7 +33,7 @@ Oft entspricht die Steuer, die Sie für Artikel dem Lieferanten zahlen, derselbe
 
 Beispiel: Sie kaufen Artikel im Wert X ein und verkaufen Sie für 1,3x X. Somit zahlt Ihr Kunde 1,3x den Betrag, den Sie an Ihren Lieferanten zahlen. Da Sie ja für X bereits Steuer über Ihren Lieferanten gezahlt haben, müssen Sie nurmehr die Differenz von 0,3x X an den Staat abführen.
 
-Das kann in ERPNext sehr einfach mitprotokolliert werden, das jede Steuerbezeichnung auch ein Konto ist. Im Idealfall müssen Sie für jede Mehrwertsteuerart zwei Konten erstellen, eines für Einnahmen und eines für Ausgaben, Vorsteuer (Forderung) und Umsatzsteuer (Verbindlichkeit), oder etwas ähnliches. Nehmen Sie hierzu mit Ihrem Steuerberater Kontakt auf, wenn Sie weiterführende Hilfe benötigen, oder erstellen Sie eine Anfrage im Forum.
+Das kann in Pro Enterprise ERP sehr einfach mitprotokolliert werden, das jede Steuerbezeichnung auch ein Konto ist. Im Idealfall müssen Sie für jede Mehrwertsteuerart zwei Konten erstellen, eines für Einnahmen und eines für Ausgaben, Vorsteuer (Forderung) und Umsatzsteuer (Verbindlichkeit), oder etwas ähnliches. Nehmen Sie hierzu mit Ihrem Steuerberater Kontakt auf, wenn Sie weiterführende Hilfe benötigen, oder erstellen Sie eine Anfrage im Forum.
 
 ### Umrechnung von Einkaufsmaßeinheit in Lagermaßeinheit
 

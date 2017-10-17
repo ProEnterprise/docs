@@ -8,11 +8,11 @@ Ein Kontenabgleich ist ein Prozess, welcher den Unterschied zwischen dem Kontost
 
 Solche Unterschiede können zum Beispiel dann auftauchen, wenn ein Scheck oder eine Menge an Schecks, die von der Organisation ausgeschrieben wurden, nicht bei der Bank eingereicht wurden, wenn eine Banküberweisung, wie zum Beispiel eine Gutschrift, oder eine Bankgebühr noch nicht in den Buchhaltungsdaten der Organisation erfasst wurden, oder wenn die Bank oder die Organisation selbst einen Fehler gemacht haben.
 
-Der Kontoauszug erscheint in ERPNext in der Form eines Berichtes.
+Der Kontoauszug erscheint in Pro Enterprise ERP in der Form eines Berichtes.
 
 #### Abbilung 1: Kontoauszug
 
-![](/docs/assets/old_images/erpnext/bank-reconciliation-2.png) 
+![](/docs/assets/old_images/ProEnterprise/bank-reconciliation-2.png) 
 
 Wenn Sie den Bericht erhalten, überprüfen Sie bitte, ob das Feld "Abwicklungsdatum" wie bei der Bank angegeben mit dem Kontoauszug übereinstimmt. Wenn die Beträge übereinstimmen, dann werden die Abwicklungsdaten abgeglichen. Wenn die Beträge nicht übereinstimmen, dann überprüfen Sie bitte die Abwicklungsdaten und die Journalbuchungen/Buchungssätze.
 
@@ -20,7 +20,7 @@ Um Abwicklungsbuchungen hinzuzufügen, gehen Sie zu Rechnungswesen > Werkzeuge >
 
 ### Werkzeug zum Kontenabgleich
 
-Das Werkzeug zum Kontenabgleich in ERPNext hilft Ihnen dabei Abwicklungsdaten zu den Kontoauszügen hinzuzufügen. Um eine Scheckzahlung abzugleichen gehen Sie zum Punkt "Rechnungswesen" und klicken Sie auf "Kontenabgleich".
+Das Werkzeug zum Kontenabgleich in Pro Enterprise ERP hilft Ihnen dabei Abwicklungsdaten zu den Kontoauszügen hinzuzufügen. Um eine Scheckzahlung abzugleichen gehen Sie zum Punkt "Rechnungswesen" und klicken Sie auf "Kontenabgleich".
 
 **Schritt 1:** Wählen Sie das Bankkonto aus, zu dem Sie abgleichen wollen. Zum Beispiel: Deutsche Bank, Sparkasse, Volksbank usw.
 

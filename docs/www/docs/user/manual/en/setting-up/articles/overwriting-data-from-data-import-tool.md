@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 #Overwriting Data from Data Import Tool
 
-Data Import Tool allows importing documents (like customers, Suppliers, Orders, Invoices etc.) from spreadsheet file into ERPNext. The very same tool can also be used for overwrite values in the existing documents.
+Data Import Tool allows importing documents (like customers, Suppliers, Orders, Invoices etc.) from spreadsheet file into Pro Enterprise ERP. The very same tool can also be used for overwrite values in the existing documents.
 
 <div class="well">Overwriting data from Data Import Tool works only for the saved transactions, and not for Submitted ones.</div>
 
@@ -35,7 +35,7 @@ Columns of other field which won't have any impact can be removed, even if they 
 
 ####Step 3: Browse Template
 
-After updating Item Groups in spreadheet, come back to Data Import Tool in ERPNext. Browse and select the File/template which has data to be overwritten.
+After updating Item Groups in spreadheet, come back to Data Import Tool in Pro Enterprise ERP. Browse and select the File/template which has data to be overwritten.
 
 <img alt="Browse template" class="screenshot" src="/docs/assets/img/articles/overwrite-3.gif">
 

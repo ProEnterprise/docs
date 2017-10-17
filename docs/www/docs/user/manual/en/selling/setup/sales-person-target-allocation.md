@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 # Sales Person Target Allocation
 
-With management of Sales Person, ERPNext also allow you to assign target to Sales Persons based on Item Group and Territory. Based on target allocated and actual sales booked by Sales Person, you will get target variance report for the Sales Person.
+With management of Sales Person, Pro Enterprise ERP also allow you to assign target to Sales Persons based on Item Group and Territory. Based on target allocated and actual sales booked by Sales Person, you will get target variance report for the Sales Person.
 
 ###1. Sales Person - Item Groupwise Target Allocation
 
@@ -79,7 +79,7 @@ To create new Monthly Distriibution, go to:
 
 `Accounts > Monthly Distributon`
 
-<img class="screenshot" alt="Target Distribution" src="/docs/assets/img.selling/erpnext/target-distribution.png">
+<img class="screenshot" alt="Target Distribution" src="/docs/assets/img.selling/ProEnterprise/target-distribution.png">
 
 You can link Monthly Distribution while allocating targets in Sales Person as well as in Territory master.
 

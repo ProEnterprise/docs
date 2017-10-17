@@ -1,7 +1,7 @@
 # Projekt
 <span class="text-muted contributed-by">Beigetragen von CWT Connector & Wire Technology GmbH</span>
 
-Das Projektmanagement in ERPNext ist aufgabengesteuert. Sie können ein Projekt erstellen und ihm mehrere unterschiedliche Aufgaben zuweisen.
+Das Projektmanagement in Pro Enterprise ERP ist aufgabengesteuert. Sie können ein Projekt erstellen und ihm mehrere unterschiedliche Aufgaben zuweisen.
 
 <img class="screenshot" alt="Projekt" src="/docs/assets/img/project/project.png">
 
@@ -24,7 +24,7 @@ Eine Aufgabe kann über das Projektdokument selbst erstellt werden oder über di
 
 ### Zeitmanagement
 
-ERPNext verwendet [Zeitprotokolle](/docs/user/manual/de/projects/time-log.html) um den Fortschritt eines Projektes nachzuverfolgen. Sie können Zeitprotokolle zu jeder Aufgabe erstellen. Das aktuelle Start- und Enddatum wird dann zusammen mit der Kostenberechnung  basierend auf dem Zeitprotokoll aktualisiert.
+Pro Enterprise ERP verwendet [Zeitprotokolle](/docs/user/manual/de/projects/time-log.html) um den Fortschritt eines Projektes nachzuverfolgen. Sie können Zeitprotokolle zu jeder Aufgabe erstellen. Das aktuelle Start- und Enddatum wird dann zusammen mit der Kostenberechnung  basierend auf dem Zeitprotokoll aktualisiert.
 
 * Um ein Zeitprotokoll zu einem Projekt anzusehen, klicken Sie auf "Zeitprotokolle"
 
@@ -75,7 +75,7 @@ Sie können einen [Kundenauftrag](/docs/user/manual/de/selling/sales-order.html)
 
 ### Gantt-Diagramm
 
-Ein Gantt-Diagramm illustriert einen Projektplan, ERPNext erstellt Ihnen eine illustrierte Übersicht aller terminierten Aufgaben eines Projektes als Gantt-Diagramm.
+Ein Gantt-Diagramm illustriert einen Projektplan, Pro Enterprise ERP erstellt Ihnen eine illustrierte Übersicht aller terminierten Aufgaben eines Projektes als Gantt-Diagramm.
 
 * Um ein Gantt-Diagramm zu einem Projekt anzusehen, gehen Sie zu diesem Projekt und klicken Sie auf "Gantt-Diagramm".
 

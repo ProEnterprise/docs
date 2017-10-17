@@ -1,16 +1,16 @@
 # Install
 
-<!-- title: ERPNext Installation -->
+<!-- title: Pro Enterprise ERP Installation -->
 
 # Installation
 
-ERPNext is based on the <a href="https://frappe.io">Frappé Framework</a>, a full stack web framework based on Python, MariaDB, Redis, Node.
+Pro Enterprise ERP is based on the <a href="https://frappe.io">Frappé Framework</a>, a full stack web framework based on Python, MariaDB, Redis, Node.
 
-To intall ERPNext, you will have to install the <a href="https://github.com/frappe/bench">Frappé Bench</a>, the command-line, package manager and site manager for Frappé Framework. For more details, read the Bench README.
+To intall Pro Enterprise ERP, you will have to install the <a href="https://github.com/frappe/bench">Frappé Bench</a>, the command-line, package manager and site manager for Frappé Framework. For more details, read the Bench README.
 
-After you have installed Frappé Bench, go to you bench folder, which is     `frappe.bench` by default and setup **erpnext**.
+After you have installed Frappé Bench, go to you bench folder, which is     `frappe.bench` by default and setup **ProEnterprise**.
 
-    bench get-app erpnext {{ source_link }}
+    bench get-app ProEnterprise {{ source_link }}
 
 Then create a new site to install the app.
 
@@ -18,9 +18,9 @@ Then create a new site to install the app.
 
 This will create a new folder in your `/sites` directory and create a new database for this site.
 
-Next, install erpnext in this site
+Next, install ProEnterprise in this site
 
-    bench --site mysite install-app erpnext
+    bench --site mysite install-app ProEnterprise
 
 To run this locally, run
 

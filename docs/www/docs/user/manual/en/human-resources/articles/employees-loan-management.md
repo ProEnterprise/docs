@@ -3,7 +3,7 @@
 
 Employee Loan is an sum of money paid by Employer to Employee based on certain terms and condition. There are multiple ways accounting for the Employee loan can be managed. Company could collect loan from an employee separately. Or they can choose to deduct loan installment from the employee's salary.
 
-Let's check below how accounting can be managed for Employee Loan in ERPNext.
+Let's check below how accounting can be managed for Employee Loan in Pro Enterprise ERP.
 
 ### 1. Setup Masters
 

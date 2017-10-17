@@ -40,6 +40,6 @@ Sie können Google Analytics und soziale Netzwerke in Ihre Webseite mit einbinde
 
 <img class="screenshot" alt="Einbindungen" src="/docs/assets/img/website/integrations.png">
 
-* Sie können ein öffentliches Anmelden auf Ihr ERPNext-Konto unterbinden indem Sie auf "Anmelden deaktivieren" klicken.
+* Sie können ein öffentliches Anmelden auf Ihr Pro Enterprise ERP-Konto unterbinden indem Sie auf "Anmelden deaktivieren" klicken.
 
 {next}

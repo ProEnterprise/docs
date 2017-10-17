@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 #Evaluación
 
-Cada instituto de educación organiza evaluaciones / examenes para evaluar el progreso de sus estudiantes. En ERPNext, puedes gestionar completamente el proceso de evaluación para sus cuentas en ERPNext.
+Cada instituto de educación organiza evaluaciones / examenes para evaluar el progreso de sus estudiantes. En Pro Enterprise ERP, puedes gestionar completamente el proceso de evaluación para sus cuentas en Pro Enterprise ERP.
 
 
 

@@ -1,6 +1,6 @@
 #Assessment
 
-Every education institute organizes assessment / examination to evaluates progress of their Students. In ERPNext, you can manage complete assessment processing for your ERPNext account.
+Every education institute organizes assessment / examination to evaluates progress of their Students. In Pro Enterprise ERP, you can manage complete assessment processing for your Pro Enterprise ERP account.
 
 Following is the order in which you should setup masters in the Assessment module.
 

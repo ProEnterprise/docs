@@ -1,4 +1,4 @@
-# ERPNext for Manufacturers (Engineer-to-Order)
+# Pro Enterprise ERP for Manufacturers (Engineer-to-Order)
 
 <iframe width="660" height="371" src="https://www.youtube.com/embed/GANHuLUptBQ" frameborder="0" allowfullscreen></iframe>
 

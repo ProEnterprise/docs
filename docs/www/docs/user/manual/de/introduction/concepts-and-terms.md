@@ -2,14 +2,14 @@
 # Konzepte und Begriffe
 <span class="text-muted contributed-by">Beigetragen von CWT Connector & Wire Technology GmbH</span>
 
-Machen Sie sich mit der Terminologie, die verwendet wird, und mit einigen Grundbegriffen von ERPNext vertraut, bevor Sie mit der Einführung beginnen.
+Machen Sie sich mit der Terminologie, die verwendet wird, und mit einigen Grundbegriffen von Pro Enterprise ERP vertraut, bevor Sie mit der Einführung beginnen.
 
 * * *
 
 ### Grundbegriffe
 
 #### Firma
-Bezeichnung für die Firmendatensätze, die unter ERPNext verwendet werden. In ein und derselben Installation können Sie mehrere Firmendatensätze anlegen, die alle unterschiedliche juristische Personen darstellen. Die Buchführung wird für jede Firma unterschiedlich sein, aber sie teilen sich die Datensätze zu Kunden, Lieferanten und Artikeln.
+Bezeichnung für die Firmendatensätze, die unter Pro Enterprise ERP verwendet werden. In ein und derselben Installation können Sie mehrere Firmendatensätze anlegen, die alle unterschiedliche juristische Personen darstellen. Die Buchführung wird für jede Firma unterschiedlich sein, aber sie teilen sich die Datensätze zu Kunden, Lieferanten und Artikeln.
 
 > Rechnungswesen > Einstellungen > Firma
 
@@ -29,7 +29,7 @@ Ein Produkt, ein Unterprodukt oder eine Dienstleistung, welche(s) entweder einge
 > Lagerbestand > Dokumente > Artikel
 
 #### Konto
-Ein Konto ist der Oberbegriff, unter dem Finanztransaktionen und Unternehmensvorgänge ausgeführt werden. Beispiel: "Reisekosten" ist ein Konto, Der Kunde "Zoe", der Lieferant "Mae" sind Konten. ERPNext erstellt automatisch Konten für Kunden und Lieferanten.
+Ein Konto ist der Oberbegriff, unter dem Finanztransaktionen und Unternehmensvorgänge ausgeführt werden. Beispiel: "Reisekosten" ist ein Konto, Der Kunde "Zoe", der Lieferant "Mae" sind Konten. Pro Enterprise ERP erstellt automatisch Konten für Kunden und Lieferanten.
 
 > Rechnungswesen > Dokumente > Kontenplan
 
@@ -70,7 +70,7 @@ Eine Kostenstelle entspricht einem Konto. Im Unterschied dazu gibt ihr Aufbau di
 > Rechnungswesen > Einstellungen > Kostenstellenplan 
 
 #### Journalbuchung (Buchungssatz)
-Ein Dokument, welches Buchungen des Hauptbuchs beinhaltet und bei dem die Summe von Soll und Haben dieser Buchungen gleich groß ist. Sie können in ERPNext über Journalbuchungen Zahlungen, Rücksendungen, etc. verbuchen.
+Ein Dokument, welches Buchungen des Hauptbuchs beinhaltet und bei dem die Summe von Soll und Haben dieser Buchungen gleich groß ist. Sie können in Pro Enterprise ERP über Journalbuchungen Zahlungen, Rücksendungen, etc. verbuchen.
 
 > Rechnungswesen > Dokumente > Journalbuchung
 
@@ -85,7 +85,7 @@ Eine Rechnung von einem Lieferanten über die Lieferung bestellter Artikel (Ware
 > Rechnungswesen > Dokumente > Eingangsrechnung
 
 #### Währung
-ERPNext erlaubt es Ihnen, Transaktionen in verschiedenen Währungen zu buchen. Es gibt aber nur eine Währung für Ihre Bilanz. Wenn Sie Ihre Rechnungen mit Zahlungen in unterschiedlichen Währungen eingeben, wird der Betrag gemäß dem angegebenen Umrechnungsfaktor in die Standardwährung umgerechnet.
+Pro Enterprise ERP erlaubt es Ihnen, Transaktionen in verschiedenen Währungen zu buchen. Es gibt aber nur eine Währung für Ihre Bilanz. Wenn Sie Ihre Rechnungen mit Zahlungen in unterschiedlichen Währungen eingeben, wird der Betrag gemäß dem angegebenen Umrechnungsfaktor in die Standardwährung umgerechnet.
 
 > Einstellungen > Rechnungswesen > Währung
 
@@ -138,7 +138,7 @@ Ein Vertrag, der mit einem Lieferanten geschlossen wird, um bestimmte Artikel zu
 > Einkauf > Dokumente > Lieferantenauftrag
 
 #### Materialanfrage
-Eine von einem Systembenutzer oder automatisch von ERPNext (basierend auf einem Mindestbestand oder einer geplanten Menge im Fertigungsplan) generierte Anfrage, um eine Menge an Artikeln zu beschaffen.
+Eine von einem Systembenutzer oder automatisch von Pro Enterprise ERP (basierend auf einem Mindestbestand oder einer geplanten Menge im Fertigungsplan) generierte Anfrage, um eine Menge an Artikeln zu beschaffen.
 
 > Einkauf > Dokumente > Materialanfrage
 
@@ -272,12 +272,12 @@ Ein Werkzeug zur automatisierten Erstellung von Fertigungsaufträgen und Materia
 ### Webseite
 
 #### Blogeintrag
-Ein kleiner Text der im Abschnitt "Blog" der Webseite erscheint, erstellt über das Webseitenmodul von ERPNext. "Blog" ist eine Kurzform von "web log".
+Ein kleiner Text der im Abschnitt "Blog" der Webseite erscheint, erstellt über das Webseitenmodul von Pro Enterprise ERP. "Blog" ist eine Kurzform von "web log".
 
 > Webseite > Dokumente > Blogeintrag
 
 #### Webseite
-Eine Webseite mit einer eindeutigen URL (Webadresse), erstellt über ERPNext.
+Eine Webseite mit einer eindeutigen URL (Webadresse), erstellt über Pro Enterprise ERP.
 
 > Webseite > Dokumente > Webseite
 

@@ -1,40 +1,40 @@
 <!-- add-breadcrumbs -->
 <!-- no-sidebar -->
 <!-- no-breadcrumbs -->
-<!-- title: Learn ERPNext -->
+<!-- title: Learn Pro Enterprise ERP -->
 <div style="max-width: 700px; margin: auto;">
     <div class="row hero" style="padding-top: 50px; border-bottom: 0px;">
         <div class="col-sm-12 hero-content">
-            <h1>ERPNext Video Tutorials</h1>
-            <p>Step-by-step guides to setting up and using ERPNext</p>
+            <h1>Pro Enterprise ERP Video Tutorials</h1>
+            <p>Step-by-step guides to setting up and using Pro Enterprise ERP</p>
         </div>
     </div>
     <br>
-    <h3>ERPNext Demonstrations</h3>
+    <h3>Pro Enterprise ERP Demonstrations</h3>
     <ul class="list-unstyled video-list">
         <li><a href="/docs/user/videos/learn/services.html">
-              ERPNext for Services Business</a>
+              Pro Enterprise ERP for Services Business</a>
             <span class="text-muted pull-right">52:50</span>
         </li>
         <li><a href="/docs/user/videos/learn/distributors.html">
-              ERPNext for Distributors</a>
+              Pro Enterprise ERP for Distributors</a>
             <span class="text-muted pull-right">51:47</span>
         </li>
         <li><a href="/docs/user/videos/learn/manufacturing-make-to-order.html">
-              ERPNext for Manufacturers</a>
+              Pro Enterprise ERP for Manufacturers</a>
             <span class="text-muted pull-right">14:26</span>
         </li>
         <li><a href="/docs/user/videos/learn/retailers.html">
-              ERPNext for Retailers</a>
+              Pro Enterprise ERP for Retailers</a>
             <span class="text-muted pull-right">39:21</span>
         </li>
         <li><a href="/docs/user/videos/learn/schools.html">
-              ERPNext for Schools</a>
+              Pro Enterprise ERP for Schools</a>
             <span class="text-muted pull-right">39:21</span>
         </li>
     </ul>
     <br>
-    <h3>Using ERPNext</h3>
+    <h3>Using Pro Enterprise ERP</h3>
     <ul class="list-unstyled video-list">
         <li><a href="/docs/user/videos/learn/navigation.html">
               User Interface and Navigation</a>
@@ -226,12 +226,12 @@
         </li>
         <li>
             <a href="/docs/user/videos/learn/manufacturing-make-to-order.html">
-              ERPNext for Manufacturers (Make to Order)</a>
+              Pro Enterprise ERP for Manufacturers (Make to Order)</a>
             <span class="text-muted pull-right">14:26</span>
         </li>
         <li>
             <a href="/docs/user/videos/learn/manufacturing-enigneer-to-order.html">
-              ERPNext for Manufacturers (Engineer to Order)</a>
+              Pro Enterprise ERP for Manufacturers (Engineer to Order)</a>
             <span class="text-muted pull-right">44:40</span>
         </li>
     </ul>
@@ -263,7 +263,7 @@
             <span class="text-muted pull-right">2:34</span>
         </li>
         <li><a href="/docs/user/videos/learn/retailers.html">
-              ERPNext for Retailers (Demo)</a>
+              Pro Enterprise ERP for Retailers (Demo)</a>
             <span class="text-muted pull-right">39:21</span>
         </li>
     </ul>

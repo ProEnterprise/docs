@@ -5,4 +5,4 @@
 
 **Duration: 3:26**
 
-Budgeting feature will help you from over-spending. In ERPNext, you can define budgets based on Cost Center and Projects.
+Budgeting feature will help you from over-spending. In Pro Enterprise ERP, you can define budgets based on Cost Center and Projects.

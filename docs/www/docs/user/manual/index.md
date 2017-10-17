@@ -1,5 +1,5 @@
 <!-- add-breadcrumbs -->
-# ERPNext User Manual
+# Pro Enterprise ERP User Manual
 
 Select your language
 

@@ -20,7 +20,7 @@ Sie werden bemerken, dass alle Informationen über nicht gelieferte Artikel und 
 
 ### Pakete oder Artikel mit Produkt-Bundles versenden
 
-Wenn Sie Artikel, die ein [Produkt-Bundle](/docs/user/manual/de/selling/setup/product-bundle.html), ERPNext will automatically beinhalten, versenden, erstellt Ihnen ERPNext automatisch eine Tabelle "Packliste" basierend auf den Unterartikeln dieses Artikels.
+Wenn Sie Artikel, die ein [Produkt-Bundle](/docs/user/manual/de/selling/setup/product-bundle.html), Pro Enterprise ERP will automatically beinhalten, versenden, erstellt Ihnen Pro Enterprise ERP automatisch eine Tabelle "Packliste" basierend auf den Unterartikeln dieses Artikels.
 
 Wenn Ihre Artikel serialisiert sind, dann müssen Sie für Artikel vom Typ Produkt-Bundle die Seriennummer in der Tabelle "Packliste" aktualisieren.
 
@@ -30,7 +30,7 @@ Wenn Sie per Containerversand oder nach Gewicht versenden, können Sie die Packl
 
 > Lagerbestand > Werkzeuge > Packzettel > Neu
 
-Sie können für Ihren Lieferschein mehrere Packlisten erstellen und ERPNext stellt sicher dass die Mengenangaben in der Packliste  nicht die Mengen im Lieferschein übersteigen.
+Sie können für Ihren Lieferschein mehrere Packlisten erstellen und Pro Enterprise ERP stellt sicher dass die Mengenangaben in der Packliste  nicht die Mengen im Lieferschein übersteigen.
 
 ---
 

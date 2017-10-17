@@ -14,11 +14,11 @@ Advantages of an Open Source software are:
 
 ---
 
-### ERPNext Source Code
+### Pro Enterprise ERP Source Code
 
-ERPnext source repository is hosted at GitHub and can be found here
+Pro Enterprise ERP source repository is hosted at GitHub and can be found here
 
-- [https://github.com/frappe/erpnext](https://github.com/frappe/erpnext)
+- [https://github.com/frappe/ProEnterprise](https://github.com/frappe/ProEnterprise)
 
 
 ---

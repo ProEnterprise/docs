@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 #Change User Password
 
-Each ERPNext user can customize password for his/her ERPNext account. Also user with System Manager role will be able to reset password for himself as well as for other users. Following are the steps to go about changing your password.
+Each Pro Enterprise ERP user can customize password for his/her Pro Enterprise ERP account. Also user with System Manager role will be able to reset password for himself as well as for other users. Following are the steps to go about changing your password.
 
 
 ####Step 1: Go to My Setting

@@ -1,14 +1,14 @@
 <!-- add-breadcrumbs -->
-# Flujo De Transacciones En ERPNext
+# Flujo De Transacciones En Pro Enterprise ERP
 
-Este diagrama cubre como ERPNext hace el seguimiento de la información de su compañia a través de funciones claves.
-Este diagrama no cubre toda la funcionalidad o características de ERPNext.
+Este diagrama cubre como Pro Enterprise ERP hace el seguimiento de la información de su compañia a través de funciones claves.
+Este diagrama no cubre toda la funcionalidad o características de Pro Enterprise ERP.
 
-![](/docs/assets/old_images/erpnext/overview.png)
+![](/docs/assets/old_images/ProEnterprise/overview.png)
 
 
 <img class="screenshot" alt="Workflow" src="/docs/assets/img/setup/overview.png">
 
-_Nota: No todos los pasos son obligatorios. ERPNext te permite pasar algunos pasos si deseas simplificar el proceso._
+_Nota: No todos los pasos son obligatorios. Pro Enterprise ERP te permite pasar algunos pasos si deseas simplificar el proceso._
 
 {next}

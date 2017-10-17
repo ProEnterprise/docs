@@ -1,8 +1,8 @@
 <!-- add-breadcrumbs -->
 # Quality Inspection
 
-In ERPNext, you can mark your incoming or outgoing products for Quality
-Inspection. To enable ERPNext to perform this function, go to :
+In Pro Enterprise ERP, you can mark your incoming or outgoing products for Quality
+Inspection. To enable Pro Enterprise ERP to perform this function, go to :
 
 > Stock > Quality Inspection > New
 

@@ -2,8 +2,8 @@
 # Workflows
 
 In order to allow multiple people to submit multiple requests, for approvals,
-by multiple users, ERPNext requires you to fill the workflow conditions.
-ERPNext tracks the multiple permissions before submission.
+by multiple users, Pro Enterprise ERP requires you to fill the workflow conditions.
+Pro Enterprise ERP tracks the multiple permissions before submission.
 
 Example of a leave application workflow is given below:
 

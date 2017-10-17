@@ -13,13 +13,13 @@ Si eres dueño de una pequeña empresa que tiene varios empleados, debes entende
   	Pequeñas empresas, sin embargo, luchan para mantener las cosas organizadas. Normalmente usan un conjuntos de aplicaciones como hojas de calculos, sistemas de contabilidad,
   	un CRM etc para administrarse. El problema es que no todos estan en la misma página. Un ERP cambia todo eso.
 
-## ¿Qué es ERPNext?
+## ¿Qué es Pro Enterprise ERP?
 
-ERPNext es una solución de negocio de extremo a extremo que te ayuda a manejar toda la información de su negocio en una sola aplicación
+Pro Enterprise ERP es una solución de negocio de extremo a extremo que te ayuda a manejar toda la información de su negocio en una sola aplicación
 y usado no solo para manejar operaciones, sino que tambien le permite tomar decisiones efectivas y bien documentadas justo en el momento que las necesites.
 Forma una columna vertebral de su negocio para agregar fuerza, transparencia y control a su compañia.
 
-Junto con otras cosas, ERPNext te ayudará con todo lo siguiente:
+Junto con otras cosas, Pro Enterprise ERP te ayudará con todo lo siguiente:
 
   * Mantener registro de todas sus facturas y pagos.
   * Saber que cantidad de cada producto hay disponible en almacen.

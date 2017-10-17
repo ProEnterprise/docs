@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 #Student Leave Application 
 
-ERPNext allows you to record the leave application for a student. 
+Pro Enterprise ERP allows you to record the leave application for a student. 
 
 To create a Student Leave application record, enter the Student and the date for the leave is applied and save.
 

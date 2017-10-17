@@ -4,4 +4,4 @@
 
 **Duration: 3:17**
 
-Request for Quotation feature allows you invite multiple Suppliers to provide their quotation. Suppliers can also provide quotation by logging into your ERPNext account. Based on the price quoted by them, Supplier Quotation will be created in your ERPNext account.
+Request for Quotation feature allows you invite multiple Suppliers to provide their quotation. Suppliers can also provide quotation by logging into your Pro Enterprise ERP account. Based on the price quoted by them, Supplier Quotation will be created in your Pro Enterprise ERP account.

@@ -4,7 +4,7 @@
 
 Ein Bewerber erhält ein Angebotsschreiben nach dem Vorstellungsgespräch und der Auswahl. Es gibt das angebotene Gehaltspaket, die Stellenbezeichnung, den Rang, die Bezeichnung der Abteilung und die vereinbarten Urlaubstage wieder.
 
-Ein ERPNext können Sie einen Datensatz zu den Angebotsschreiben, die Sie an Bewerber versenden, erstellen. Um ein neues Angebotsschreiben zu erstellen, gehen Sie zu:
+Ein Pro Enterprise ERP können Sie einen Datensatz zu den Angebotsschreiben, die Sie an Bewerber versenden, erstellen. Um ein neues Angebotsschreiben zu erstellen, gehen Sie zu:
 
 > Personalwesen > Dokumente > Angebotsschreiben > Neu
 

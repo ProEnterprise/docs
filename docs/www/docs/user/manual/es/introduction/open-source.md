@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 # Open Source
 
-El código fuente de ERPNext es de código abierto. Está abierto para que todos
+El código fuente de Pro Enterprise ERP es de código abierto. Está abierto para que todos
 podamos entenderlo, extenderlo o mejorarlo. Y es gratis!
 
 Las ventajas de un Sistema de Código Abierto:
@@ -15,11 +15,11 @@ Las ventajas de un Sistema de Código Abierto:
 
 ---
 
-### Código Fuente de ERPNext
+### Código Fuente de Pro Enterprise ERP
 
-El repositorio que contiene el código fuente de ERPnext está disponible en GitHub y puede ser encontrado aquí
+El repositorio que contiene el código fuente de Pro Enterprise ERP está disponible en GitHub y puede ser encontrado aquí
 
-- [https://github.com/frappe/erpnext](https://github.com/frappe/erpnext)
+- [https://github.com/frappe/ProEnterprise](https://github.com/frappe/ProEnterprise)
 
 
 ---

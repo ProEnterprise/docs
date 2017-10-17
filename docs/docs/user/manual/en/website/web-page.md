@@ -29,6 +29,6 @@ page will be yoursite.com/contact-us.html.
 #### Images
 
 You can attach images to your web page and show them using the  HTML tag or
-using markdown format. the link to your file will be assets/manual_erpnext_com/old_images/erpnext/filename
+using markdown format. the link to your file will be assets/manual_enterprise.plus.co.zm/old_images/ProEnterprise/filename
 
 {next}
