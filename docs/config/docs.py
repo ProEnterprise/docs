@@ -4,8 +4,8 @@ Configuration for docs
 
 source_link = "https://github.com/ProEnterprise/docs.git"
 docs_base_url = "https://enterprise.plus.co.zm/docs"
-headline = "App that does everything"
-sub_heading = "Yes, you got that right the first time, everything"
+headline = "Documentation"
+sub_heading = "Pro Enteprise documentation"
 
 def get_context(context):
         context.brand_html = "Pro Enterprise"
